@@ -10,7 +10,7 @@
 
 ### Requirements for naming:
 
-#### The name of the image file has to exactly match the "parttypename" entry in the table of corresponding item. </br> (E.g. Teable: parttypename = Battery; /Images/Parttype/Battery.jpg). </br> Upper-, lowerccase letters have to match in both names. 
+#### The name of the image file has to exactly match the "parttypename" entry in the table of corresponding item. </br> (E.g. Table: parttypename = Battery; /Images/Parttype/Battery.jpg). </br> Upper-, lowerccase letters have to match in both names. 
 
 ### New Image Creation Instruction:
 
